@@ -1,5 +1,7 @@
 # RansomEXX Tools
 
+![Image of the tool running](img/banner.png)
+
 This is a tool which can be used to extract the configuration values contained within a RansomEXX decryption tool which was provided by the attackers after an organization pays the ransom. The tool can also be used to decrypt a directory of encrypted files so that victims do not have to trust the binary given to them by the attacker.
 
 **Note:** This is not a universal decryption tool, the ransom still needs to be paid to obtain the personalized decryption tool.
