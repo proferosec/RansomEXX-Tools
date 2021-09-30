@@ -6,7 +6,7 @@ This is a tool which can be used to extract the configuration values contained w
 
 **Note:** This is not a universal decryption tool, the ransom still needs to be paid to obtain the personalized decryption tool.
 
-The full RansomEXX analysis that prompted the development of this tool can be found here: [https://medium.com/p/8e379bcaf701](https://medium.com/p/8e379bcaf701)
+The full RansomEXX analysis that prompted the development of this tool can be found here: [https://medium.com/proferosec-osm/ransomexx-fixing-corrupted-ransom-8e379bcaf701](https://medium.com/proferosec-osm/ransomexx-fixing-corrupted-ransom-8e379bcaf701)
 
 # Supported Versions
 
